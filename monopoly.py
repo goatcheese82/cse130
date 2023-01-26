@@ -12,3 +12,12 @@
 # 5. How long did it take for you to complete the assignment?
 #      -total time in hours including reading the assignment and submitting the program-
 
+class Property():
+    def __init__(self, houses, hotels, owner):
+        self.houses = houses
+        self.hotels = hotels
+        self.owner = owner
+    d
+
+
+pa = Property(0, 0, None)
