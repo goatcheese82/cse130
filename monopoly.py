@@ -17,7 +17,7 @@ class Property():
         self.houses = houses
         self.hotels = hotels
         self.owner = owner
-    d
+    def 
 
 
 pa = Property(0, 0, None)
